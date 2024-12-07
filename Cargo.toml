@@ -9,5 +9,5 @@ members = [
     "embedded-can",
     "embedded-io",
     "embedded-io-async",
-    "embedded-io-adapters",
+    "embedded-io-adapters", "main/main",
 ]
